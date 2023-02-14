@@ -89,7 +89,7 @@ const Home = () => {
               `}
             >
               <li className="p-2 text-xl text-white text-worksan font-normal">
-                <Link to="/">Nutz</Link>
+                <Link to="/">Design</Link>
               </li>
               <li className="p-2 text-xl text-white text-worksan font-normal">
                 <Link to="/">Development</Link>
